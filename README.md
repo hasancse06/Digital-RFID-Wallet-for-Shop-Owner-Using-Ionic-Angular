@@ -77,24 +77,29 @@ Transform your shop into a **modern, cashless environment** — faster, safer, a
    ```bash
    git clone https://github.com/hasancse06/Digital-RFID-Wallet-for-Shop-Owner-Using-Ionic-Angular.git
    cd Digital-RFID-Wallet-for-Shop-Owner-Using-Ionic-Angular
-Install dependencies
+   ```
+## Install dependencies
 
 npm install
 
 
-Configure your API endpoint
+## Configure your API endpoint
 
 - Update the API URL in the environment file.
 - Ensure JWT Auth and TeraWallet API are accessible.
 
 
-Build and run the app
+## Build and run the app
 
 # For browser testing
+ ```bash
 ionic serve
+```
 
-# For Android deployment
+##  For Android deployment
+ ```bash
 ionic capacitor build android
+```
 
 
 📱 Screenshots / Mockups
@@ -115,30 +120,20 @@ Recommended size: 1200×900px
 - 🛠️ Built using Ionic Angular for multi-platform support
 
 
-👨‍💻 Author
+## 🙌 Author
 
-M A Hasan
+**M A Hasan**  
+- 🔭 Full-Stack Web Developer | Ionic Framework, Angular, Node.js & REST APIs
+- 🌐 About Me [https://hasan.online](https://hasan.online)
+- 🎓 Instructor on [Udemy](https://www.udemy.com/user/m-a-hasan-2/)
+- 🧠 Creator at [Envato](https://themeforest.net/user/hasanonline)
+- ✍️ Blogger at [blog.hasan.online](https://blog.hasan.online)
 
-🔭 Full-Stack Web Developer (Ionic, Angular, Node.js, WordPress REST APIs)
+## ⭐ Support This Project
 
-- 🌐 hasan.online
+If you find this useful:
+- ⭐ Star the repository on GitHub
+- 🔗 Share it with fellow Ionic, WordPress, WooCommerce, or mobile app developers
+- 💡 Contribute with feedback or pull requests
 
-- 🎓 Udemy Instructor
-
-- 🧠 Envato Creator
-
-- ✍️ Tech Blogger
-- 
-
-💬 Support This Project
-
-If this project helps you:
-
-- ⭐ Star the repo
-
-- 🔗 Share it with your developer community
-
-- 🧩 Contribute or report issues
-
-Together, we make WordPress more mobile-friendly and developer-first
-
+> Together, we make WordPress more mobile-friendly and developer-first 🚀
