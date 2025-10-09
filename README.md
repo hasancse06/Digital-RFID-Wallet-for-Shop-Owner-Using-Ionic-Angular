@@ -102,10 +102,10 @@ ionic capacitor build android
 ```
 
 
-📱 Screenshots / Mockups
+##  Screenshots / Mockups
 
-(Add your app preview or screenshots here)
-Recommended size: 1200×900px
+![Screenshot](rfid-ss-1.png)
+![Screenshot](rfid-ss-3.png)
 
 💡 Why Choose This Project?
 
