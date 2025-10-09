@@ -79,39 +79,41 @@ Transform your shop into a **modern, cashless environment** — faster, safer, a
    cd Digital-RFID-Wallet-for-Shop-Owner-Using-Ionic-Angular
 Install dependencies
 
-bash
-Copy code
 npm install
+
+
 Configure your API endpoint
 
-Update the API URL in the environment file.
+- Update the API URL in the environment file.
+- Ensure JWT Auth and TeraWallet API are accessible.
 
-Ensure JWT Auth and TeraWallet API are accessible.
 
-Build and run
+Build and run the app
 
-bash
-Copy code
+# For browser testing
 ionic serve
-or deploy to Android using:
 
-bash
-Copy code
+# For Android deployment
 ionic capacitor build android
+
+
 📱 Screenshots / Mockups
+
 (Add your app preview or screenshots here)
 Recommended size: 1200×900px
 
 💡 Why Choose This Project?
-✅ 100% free and open-source
 
-⚡ Fast contactless NFC transactions
+- ✅ 100% free and open-source
 
-🔒 Secure with JWT + role-based access
+- ⚡ Fast contactless NFC transactions
 
-🧩 Fully compatible with WordPress & WooCommerce
+- 🔒 Secure with JWT + role-based access
 
-🛠️ Built using Ionic Angular for multi-platform support
+- 🧩 Fully compatible with WordPress & WooCommerce
+
+- 🛠️ Built using Ionic Angular for multi-platform support
+
 
 👨‍💻 Author
 
@@ -119,23 +121,24 @@ M A Hasan
 
 🔭 Full-Stack Web Developer (Ionic, Angular, Node.js, WordPress REST APIs)
 
-🌐 hasan.online
+- 🌐 hasan.online
 
-🎓 Udemy Instructor
+- 🎓 Udemy Instructor
 
-🧠 Envato Creator
+- 🧠 Envato Creator
 
-✍️ Tech Blogger
+- ✍️ Tech Blogger
+- 
 
 💬 Support This Project
 
 If this project helps you:
 
-⭐ Star the repo
+- ⭐ Star the repo
 
-🔗 Share it with your developer community
+- 🔗 Share it with your developer community
 
-🧩 Contribute or report issues
+- 🧩 Contribute or report issues
 
-Together, we make WordPress more mobile-friendly and developer-first 🚀
+Together, we make WordPress more mobile-friendly and developer-first
 
