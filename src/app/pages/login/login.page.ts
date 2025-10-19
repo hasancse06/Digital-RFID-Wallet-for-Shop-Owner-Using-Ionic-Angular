@@ -44,7 +44,7 @@ export class LoginPage implements OnInit {
   ionViewWillEnter(){
     if(localStorage.getItem('currentUserId')) {
       this.CFS.presentToast('You are logged in...!','bottom',2000);
-      this.router.navigateByUrl('/events');
+      this.router.navigateByUrl('/home');
     }
   }
 
